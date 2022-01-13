@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanmay-a-sharma
 - 👀 I’m an Intelligent Systems Engineering Student // Computer Engineering student at Indiana University
 - 🌱 I’m currently learning more and more about ML/AI.
-- 📫 How to reach me : sharma.a.tanmay@gmail.com
+- 📫 How to reach me : sharma.a.tanmay@gmail.com // https://www.linkedin.com/in/tanmayxsharma/
 
 <!---
 tanmay-a-sharma/tanmay-a-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
