@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanmay-a-sharma
-- 👀 I’m an Intelligent Systems Engineering Student // Computer Science & Mathematics student at Indiana University
+- 👀 I’m a Mathematics and Computer Science (A.I. specialization) student at Indiana University
 - 🌱 I’m currently learning more and more about ML/AI and software development.
 - 📫 How to reach me : tanmayxsharma4.com // https://www.linkedin.com/in/tanmayxsharma/
 
