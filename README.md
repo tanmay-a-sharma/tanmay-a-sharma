@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanmay-a-sharma
-- 👀 I’m a Mathematics and Computer Science (A.I. specialization) student at Indiana University
+- 👀 I’m a Mathematics and Computer Science (AI) student at Indiana University
 - 🌱 My primary focus and passion lie in the field of AI. I actively work on developing projects that leverage AI technologies.
 - 📫 How to reach me : tanmayxsharma4@gmail.com // https://www.linkedin.com/in/tanmayxsharma/
 
