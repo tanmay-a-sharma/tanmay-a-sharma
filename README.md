@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmay-a-sharma
 - 👀 I’m a Mathematics and Computer Science (AI) student at Indiana University
-- 🌱 My primary focus and passion is to create positive change using technology. I actively work on developing projects that do just this. 
+- 🌱 My focus and passion is to create positive change using technology. I actively work on developing projects that do just this. 
 - 📫 How to reach me : tanmayxsharma4@gmail.com // https://www.linkedin.com/in/tanmayxsharma/
 
 <!---
