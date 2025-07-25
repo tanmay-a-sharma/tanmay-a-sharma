@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @tanmay-a-sharma
-- 🌱 My focus and passion is in HCI, environmental health, reasoning, and social impact.
-- 📫 How to reach me : sharma.a.tanmay@gmail.com // https://www.linkedin.com/in/tanmayxsharma/
+tsha444.com
 
 <!---
 tanmay-a-sharma/tanmay-a-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
